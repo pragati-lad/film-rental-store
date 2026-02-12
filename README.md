@@ -1,12 +1,6 @@
 # 🎬 Film Rental Store Analytics Dashboard
 
-![SQL](https://img.shields.io/badge/MySQL-blue)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange) ![Data
-Analytics](https://img.shields.io/badge/Data-Analytics-green)
-![GitHub](https://img.shields.io/badge/GitHub-Project-black)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
-📊 An end-to-end data analytics project analyzing a film rental business
+An end-to-end data analytics project analyzing a film rental business
 using SQL and Tableau.\
 This project demonstrates data transformation, multi-table joins,
 business analysis, and dashboard visualization.
@@ -38,7 +32,6 @@ them in an interactive Tableau dashboard.
 2️⃣ SQL joins used to create a master analytical dataset\
 3️⃣ Data visualized using Tableau Public\
 4️⃣ Dashboard exported as PDF for reporting\
-5️⃣ Project structured and published on GitHub
 
 ------------------------------------------------------------------------
 
@@ -85,9 +78,7 @@ This dashboard can help business management:
   ---------------- -----------------------------------
   MySQL            Data transformation & joins
   Tableau Public   Dashboard visualization
-  CSV Files        Raw dataset
-  Git & GitHub     Version control & project hosting
-
+  
 ------------------------------------------------------------------------
 
 ## 🧾 SQL Data Transformation
@@ -118,16 +109,5 @@ Explore the interactive dashboard here:
 
 https://public.tableau.com/app/profile/pragati.lad2168/viz/FilmRentalDashboard_17684220488820/FilmRentalStore
 
-------------------------------------------------------------------------
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/f79f45cb-ce5a-4578-9939-47f9631e6882" />
 
-## 📄 Dashboard Preview
-
-A static PDF version of the dashboard is available in the `reports/`
-folder.
-
-------------------------------------------------------------------------
-
-## 🙌 Author
-
-Pragati Lad\
-Data Analytics Enthusiast
