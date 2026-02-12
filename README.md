@@ -31,7 +31,6 @@ them in an interactive Tableau dashboard.
 1️⃣ Raw data stored as CSV files\
 2️⃣ SQL joins used to create a master analytical dataset\
 3️⃣ Data visualized using Tableau Public\
-4️⃣ Dashboard exported as PDF for reporting\
 
 ------------------------------------------------------------------------
 
