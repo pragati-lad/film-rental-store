@@ -105,9 +105,7 @@ This creates a unified dataset for analytical processing.
 
 ## 🔗 Live Dashboard
 
-Explore the interactive dashboard here:
+Click the preview below to explore the fully interactive Tableau dashboard:
 
-https://public.tableau.com/app/profile/pragati.lad2168/viz/FilmRentalDashboard_17684220488820/FilmRentalStore
-
-<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/f79f45cb-ce5a-4578-9939-47f9631e6882" />
+[![Film Rental Store Dashboard](https://public.tableau.com/static/images/Fi/FilmRentalDashboard_17684220488820/FilmRentalStore/1.png)](https://public.tableau.com/app/profile/pragati.lad2168/viz/FilmRentalDashboard_17684220488820/FilmRentalStore)
 
