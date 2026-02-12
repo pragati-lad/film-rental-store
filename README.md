@@ -1,6 +1,6 @@
 # 🎬 Film Rental Store Analytics Dashboard
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![SQL](https://img.shields.io/badge/MySQL-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange) ![Data
 Analytics](https://img.shields.io/badge/Data-Analytics-green)
 ![GitHub](https://img.shields.io/badge/GitHub-Project-black)
